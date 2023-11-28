@@ -1,5 +1,5 @@
-greeting = input("Hello, possible pirate! What's the password?)
-if greeting in ["Arrr!"):
+greeting = input("Hello, possible pirate! What's the password?") #closed the double quotes at the end 
+if greeting in ["Arrr!"]: #replaced paranthesis at the end with square bracket
 	print("Go away, pirate.")
-elif
-print("Greetings, hater of pirates!")
+else: #changed "elif" to "else" and added a colon 
+	print("Greetings, hater of pirates!") #added identation 
